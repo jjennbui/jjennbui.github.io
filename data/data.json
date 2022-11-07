@@ -1,0 +1,16 @@
+{
+    "person": {
+        "firstName" : "jenny",
+        "lastName" : "bui"
+    },
+    "work": {
+        "job" : "student",
+        "program" : "digital design and development diploma",
+        "url" : "https://www.bcit.ca/programs/digital-design-and-development-diploma-full-time-6515dipma/?gclid=CjwKCAiA9qKbBhAzEiwAS4yeDb0eezfn-_A-21Za8CZqktMRwSFNKQKRA-bT2VMpMKGal4mxuvQsRxoCMLMQAvD_BwE&gclsrc=aw.ds"
+    },
+    "study": {
+        "programs" : ["D3", "abt"],
+        "school" : "bcit"
+    }
+
+    }
